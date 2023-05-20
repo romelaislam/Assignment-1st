@@ -1,8 +1,9 @@
 
+
   @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Catamaran:wght@200&family=Cookie&family=Cormorant+Garamond:wght@300&family=Crimson+Text&family=EB+Garamond&family=Edu+NSW+ACT+Foundation&family=IBM+Plex+Serif:wght@100&family=Marck+Script&family=Poppins&family=Sacramento&family=Tangerine:wght@700&display=swap');
   
   body{
-      font-family: 'Crimson Text', serif;
+     font-family: 'Caveat', cursive;
   }
 
 
@@ -55,7 +56,7 @@
  }
  #s-button{
       color:rgb(243, 113 ,135) !important;
-      border-color: rgb(243, 113 ,135);
+      border-color: rgb(247, 99, 123);
       background-color: rgb(254,235,238);
  }
  .button-possition{
@@ -76,7 +77,7 @@
       border-right: 0;
 }
                                    /* Our donate plan */
-.img-s{
+.img-ic{
      width: 50px;
 }
 .card-1{
@@ -96,4 +97,32 @@
 }
 #color-3{
      background-color: rgba(113, 152, 12, 0.392);
+}
+
+                                   /* Lorem ipsum color */
+
+h2{
+     font-size: 50px;
+} 
+.p{
+   color: rgb(136, 125, 125);
+   font-size: 18px;
+   margin-bottom: 0%;
+}
+.img-s{
+      width: 600px;
+      border-radius: 5px;
+}
+.m-right{
+      margin-right: 110px;
+} 
+
+.button-helping{
+                background-color: rgb(231, 96, 13);
+                color: aliceblue;
+                border-color: rgb(231, 96, 13);
+                padding: 12px;
+                font-weight: 800;
+                border-radius: 10px;
+                border: 0;
 }
