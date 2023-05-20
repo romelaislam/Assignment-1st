@@ -1,0 +1,99 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Catamaran:wght@200&family=Cookie&family=Cormorant+Garamond:wght@300&family=Crimson+Text&family=EB+Garamond&family=Edu+NSW+ACT+Foundation&family=IBM+Plex+Serif:wght@100&family=Marck+Script&family=Poppins&family=Sacramento&family=Tangerine:wght@700&display=swap');
+  
+  body{
+      font-family: 'Crimson Text', serif;
+  }
+
+
+.background-img{
+      height: 80vh;
+      width: 100%;
+      background-image: url(images/donation8.jpg);
+      justify-content: center;
+      background-repeat: no-repeat;
+      display: flex;
+      background-position: center;
+      background-size: cover;
+      align-items: center;
+      margin-bottom: 6%;
+      padding: 0% !important;
+}
+.top-possition{
+      padding-top: 150px;
+      color:aliceblue;
+      font-size: 22px;
+      padding-left: 5%;
+      text-align: center; 
+      padding-top: 5%; 
+}
+.button{
+      padding: 15px 30px;
+      background-color:  rgb(223, 10, 10);
+      border-color: rgb(223, 10, 10);
+      border-radius: 5px;
+      font-weight: 700;
+      font-size: 20px;
+      color: aliceblue;
+}
+
+                                         /* Lorem ipsum */
+
+ .Lorem-ipsum{
+      text-align: center;
+      margin-bottom: 8%;
+ }   
+ #h1{
+      font-size: 35px;
+ }     
+ 
+ .button-c{
+      padding: 40px 60px;
+      border-radius: 3%;
+      margin-left: 5%;
+      margin-bottom: 3%;
+ }
+ #s-button{
+      color:rgb(243, 113 ,135) !important;
+      border-color: rgb(243, 113 ,135);
+      background-color: rgb(254,235,238);
+ }
+ .button-possition{
+      text-align: center;
+ }
+
+#input{
+      color: gray;
+      border-bottom: 2px solid gray;
+      width: 1200px;
+      text-align: center;
+      margin-left: 12%;
+      padding-bottom: 20px;
+      font-size: 13px;
+      margin-bottom: 5%;
+      border-top: 0;
+      border-left: 0;
+      border-right: 0;
+}
+                                   /* Our donate plan */
+.img-s{
+     width: 50px;
+}
+.card-1{
+      background-color: aqua;
+      padding: 25px;
+      border-radius: 10px;
+      margin-left: 25px;
+      
+}
+.flex{
+     display: flex;
+     margin: 8%;
+     margin-top: 5%;
+}
+#color-2{
+   background-color:rgba(128, 0, 255, 0.387);
+}
+#color-3{
+     background-color: rgba(113, 152, 12, 0.392);
+}
