@@ -126,3 +126,44 @@ h2{
                 border-radius: 10px;
                 border: 0;
 }
+.input-2{
+     background-color: antiquewhite;
+     text-align: center;
+     padding: 80px;
+     margin-left: 10%;
+     margin-right: 10%;
+     margin-bottom: 5%;
+}
+
+.font{
+     padding: 15px;
+     font-weight: 700;
+     background-color: rgb(207, 207, 207);   
+     color: grey;
+     border: none;
+     margin-right: 0%;
+     border-radius: 5px 0 0 5px;
+     margin: 0;
+}
+.orange{
+     background-color: orangered;
+     color: aliceblue;
+     border: none;
+     padding: 15px;
+     padding-left: 50px;
+     padding-right: 50px;
+     margin-left: 0%;
+     border-radius: 0 5px 5px 0;
+     margin: 0;
+}
+.footer{
+     background-color: rgb(26, 24, 24);
+     padding: 50px;
+     text-align: center;
+}
+.tomato{
+     color: tomato;
+}
+.white{
+     color: white;
+}
